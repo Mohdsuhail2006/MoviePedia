@@ -1,0 +1,5 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+requests==2.32.4
